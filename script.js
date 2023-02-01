@@ -25,7 +25,7 @@ function calculate_bmi(){
         output_text = "You are Overweight";
     }
     else if(bmi > 30 ){
-        output_text = "You are Obesity";
+        output_text = "You are Obese";
     }
     // Underweight = <18.5
     // Normal weight >18.5–24.9 
